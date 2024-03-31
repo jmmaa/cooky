@@ -1,0 +1,6 @@
+[submodule "cooky-backend"]
+	path = cooky-backend
+	url = https://github.com/jmmaa/cooky-backend
+[submodule "cooky-frontend"]
+	path = cooky-frontend
+	url = https://github.com/jmmaa/cooky-frontend
